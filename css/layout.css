@@ -52,7 +52,13 @@ li a {
   font-family: Hind, sans-serif;
   color: #515769;
 }
+.servicelist{
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Hind, sans-serif;
+  color: #fff;
 
+}
 a {
   font-family: Hind, sans-serif;
   color: #81848f;
